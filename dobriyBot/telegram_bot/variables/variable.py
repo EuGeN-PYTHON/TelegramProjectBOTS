@@ -1,0 +1,12 @@
+
+FIRST_ITEM = 'start'
+SECOND_ITEM = 'help'
+THIRD_ITEM = 'Режим работы'
+FOURTH_ITEM = 'Расположение'
+FIFTH_ITEM = 'Услуги'
+SIXTH_ITEM = ''
+SEVENTH_ITEM = ''
+EIGHTH_ITEM = ''
+NINTH_ITEM = ''
+TENTH_ITEM = ''
+NAMEBOT = ''
